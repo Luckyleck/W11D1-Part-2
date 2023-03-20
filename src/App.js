@@ -11,7 +11,8 @@ function App() {
   const [isBrown, setIsBrown] = useState(false);
   const [isLightBrown, setIsLightBrown] = useState(false);
   const [isYellow, setIsYellow] = useState(false);
-
+  console.log("hello")
+  debugger
   return (
     <>
       <h1>Turkey Creator</h1>
